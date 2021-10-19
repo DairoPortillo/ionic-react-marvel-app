@@ -154,7 +154,7 @@ const ViewCharacter = () => {
 											<IonCol size="12">
 												<a href={ character.urls[1].url } target="_blank" rel="noreferrer" className="non-link">
 													<IonButton color="danger" expand="full">
-														View full profile on Marvel
+														View full profile on Marvel App Development
 														<IonIcon slot="end" icon={ arrowRedoOutline } />
 													</IonButton>
 												</a>
@@ -167,7 +167,7 @@ const ViewCharacter = () => {
 											<IonCol size="12">
 												<a href={ character.urls[2].url } target="_blank" rel="noreferrer" className="non-link">
 													<IonButton color="dark" expand="full">
-														View all comics on Marvel
+														View all comics on Marvel App Development
 														<IonIcon slot="end" icon={ arrowRedoOutline } />
 													</IonButton>
 												</a>
@@ -183,7 +183,7 @@ const ViewCharacter = () => {
 
 									<IonRow className="ion-text-center ion-padding">
 										<IonCol size="12">
-											<IonCardSubtitle color="dark">Showing 20 comics...</IonCardSubtitle>
+											<IonCardSubtitle color="dark">Showing 20 comics... App Development</IonCardSubtitle>
 										</IonCol>
 									</IonRow>
 									<IonRow>
